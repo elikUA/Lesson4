@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+.CV {
+    color: rgb(16, 133, 133);
+}
+.main_left{
+    width: 900px;
+    text-align: center;
+    box-shadow: 4px 4px 33px -2px rgba(34, 60,80)
+}
+.main_right {
+    width: 900px;
+    box-shadow: 4px 4px 33px -2px rgba(34, 60,80)
+}
+.main {
+    margin: auto;
+    border-spacing: 30px 11px;
+}
+body {
+    font-family: sans-serif;
+    background: rgb(243, 214, 152);
+}
+.center {
+    font-size: 50px;
+}
+.btn {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #fff;
+    background: rgb(180, 214, 203);
+}
+.btn-contact {
+    padding: 20px 80px;
+}
+img {
+    width: 100px;
+    height: 140px;
+}
